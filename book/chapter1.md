@@ -6,7 +6,7 @@
 They focus on innovation and entrepreneurship to address specific problems. As a result,
 although we have a lot of ideas and visions, the odds of success remain low.
 
-- There is a misconception that bringing ideas to market require stating a company.
+- There is a misconception that bringing ideas to market requires stating a company.
 
 ## Solution
 
