@@ -11,4 +11,4 @@ Instead of relying on entrepreneurship and innovation, a model (or process) allo
 
 # Commercialization Model
 
-![images/commercialization-cycle.png]
+![Commercialization Cycle](images/commercialization-cycle.png)
