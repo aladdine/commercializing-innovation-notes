@@ -1,6 +1,6 @@
 # Chapter 1: Technology Commercialization
 
-## Porblem Statement
+## Problem Statement
 
 - Existing commercialization methods for bringing ideas to market are lagging behind. 
 They focus on innovation and entrepreneurship to address specific problems. As a result,
