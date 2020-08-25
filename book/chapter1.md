@@ -15,4 +15,4 @@ Old methods will no longer work in the new world.
 
 - We can improve the odds of success by devising a process.
 
-- Ideas can come from a myriad of places: invention, acquisitions, licensing, etc.
+- Ideas can come from a myriad of places (e.g. invention, acquisitions, licensing, etc).
